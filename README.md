@@ -65,7 +65,7 @@ Works with Pens on any tablet or Cintiq or even a Microsoft Surface. Also works 
 * Onion Skin
 *洋葱皮
 * Track changes
-* 跟踪变化
+*跟踪变化
 * Collaborate on Github
 *在Github上合作
 * Export to various Formats
@@ -75,10 +75,10 @@ Works with Pens on any tablet or Cintiq or even a Microsoft Surface. Also works 
 ## We have 4 brush types which are all you need to draw fast:
 ## 我们提供4种笔刷类型，您需要快速绘制它们：
 
-* **Light pencil** for roughing
-* **Pencil** for fast sketching
-* **Pen** for inking strong lines
-* **Brush** for filling in some shading
+* **Light pencil** for roughing* **轻铅笔**用于粗加工
+* **Pencil** for fast sketching* **铅笔**，可快速绘制草图
+* **Pen** for inking strong lines* **笔**，用于标记强线
+* **Brush** for filling in some shading* **画笔**，用于填充一些阴影
 
 You can also specificy 3 brush sizes for each type.
 
